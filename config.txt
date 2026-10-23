@@ -1,2 +1,1 @@
-title=Shop Catalog and Cart
-
+title=Shop
